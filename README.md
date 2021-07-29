@@ -7,7 +7,6 @@ supports many Qt Widgets:
 - All TextInputs(TextEdit/LineEdit/PlainTextEdit)
 - ✨Progressbar/ListWidget
 ## Screenshot
-![screenshot] (screenshot.png)
 
 ## Installation
 
